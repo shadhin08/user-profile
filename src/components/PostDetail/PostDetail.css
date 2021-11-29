@@ -1,0 +1,13 @@
+.postBox
+{
+    text-align: left!important;
+}
+.nav-bar
+{
+    display: flex;
+}
+.nav-icon
+{
+    margin: 5px;
+    padding: 5px;
+}

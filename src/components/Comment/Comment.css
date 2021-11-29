@@ -1,0 +1,25 @@
+.comment-detail
+{
+    text-align: left;
+    /* border: 1px solid red; */
+}
+.name-section
+{
+    /* border-bottom: 1px dotted gray; */
+    padding: 10px 0px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.button-section
+{
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid gray;
+}
+.comment-like-button
+{
+    /* color: blue; */
+    border: none;
+    outline: none;
+}

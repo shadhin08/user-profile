@@ -1,0 +1,41 @@
+.postBox
+{
+    border: 1px solid gray;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+}
+.likeComment
+{
+    margin: 10px;
+    padding: 5px;
+    /* border: 1px solid gray; */
+    display: flex;
+}
+.like
+{
+    width: 48%;
+    text-align: center;
+    /* border-right: 1px solid gray; */
+}
+.like-button
+{
+    height: 120%;
+    width: 95%;
+    border: none;
+    background-color: lightgray;
+    border-radius: 10px;
+}
+.comment
+{
+    width: 48%;
+    text-align: center;
+}
+.comment-button
+{
+    height: 120%;
+    width: 95%;
+    border: none;
+    background-color: lightgray;
+    border-radius: 10px;
+}
